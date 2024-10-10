@@ -5,4 +5,4 @@ The project is currently in development, was created using the GameMaker Studio 
 
 Made by Amparo Alcaraz, Mariana Carrillo, Diana Escalante, Yaeko Gonzáles, María José Samaniego, Monserrath Valenzuela and Mariana Islas.
 
-Resources used: https://limezu.itch.io/moderninteriors?download https://hat-soup-studio.itch.io/spooky-gba-assets https://elthen.itch.io/2d-pixel-art-dungeon-tileset?download
+Resources used: https://limezu.itch.io/moderninteriors?download https://hat-soup-studio.itch.io/spooky-gba-assets https://elthen.itch.io/2d-pixel-art-dungeon-tileset?download https://pixabay.com/music/pulses-calm-music-for-a-horror-game-155206/
