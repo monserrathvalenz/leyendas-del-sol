@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"iteam_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"iteam_functions",
+  "parent":{
+    "name":"Inventario",
+    "path":"folders/Scripts/Inventario.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
